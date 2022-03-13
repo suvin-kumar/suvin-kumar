@@ -5,7 +5,8 @@
 My name is Suvin Kumar and I am a Data Engineer actively pursuing a career whilst constantly learning and improving my craft as a developer and engineer.
 
 
-I'm proficient in the following Languages/Frameworks/Technologies:
+
+## I'm proficient in the following Languages/Frameworks/Technologies:
 
 **Programming Languages:** Python
 
@@ -22,7 +23,8 @@ I'm proficient in the following Languages/Frameworks/Technologies:
 **Others:** Agile, OOP, TDD, Continuous Integration/Continuous Delivery with Jenkins, Apache Spark, Apache Airflow and Docker.
 
 
-**For Data Engineering here are some projects I have worked on:**
+
+## **For Data Engineering here are some projects I have worked on:**
 
 https://github.com/suvin-kumar/DE-Capstone-Project.git
 
