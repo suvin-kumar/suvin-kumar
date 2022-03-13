@@ -23,6 +23,11 @@ I'm proficient in the following Languages/Frameworks/Technologies:
 
 
 **For Data Engineering here are some projects I have worked on:**
+https://github.com/suvin-kumar/DE-Capstone-Project.git
+https://github.com/suvin-kumar/Spoofiify-Data-Warehouse-Project-for-songs-analysis.git
+https://github.com/suvin-kumar/Spoofify-Data-Pipeline-Project-with-Apache-Airflow.git
+https://github.com/suvin-kumar/Design-OLTP-Database.git
+https://github.com/suvin-kumar/Python-Project-for-Data-Engineering.git
 
 
 
