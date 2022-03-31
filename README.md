@@ -32,6 +32,8 @@ https://github.com/suvin-kumar/Spoofiify-Data-Warehouse-Project-for-songs-analys
 
 https://github.com/suvin-kumar/Spoofify-Data-Pipeline-Project-with-Apache-Airflow.git
 
+https://github.com/suvin-kumar/EDA_Binance-using-Python-and-Pandas
+
 https://github.com/suvin-kumar/Design-OLTP-Database.git
 
 https://github.com/suvin-kumar/Python-Project-for-Data-Engineering.git
