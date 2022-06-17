@@ -14,11 +14,11 @@ My name is Suvin Kumar and I am a Data Engineer actively pursuing a career whils
 
 **Frameworks:** Django and Flask
 
-**Databases:** PostgreSQL, MySQL and MongoDB
+**Databases:**  MySQL and MongoDB
 
-**Cloud Computing platforms:** AWS, Azure, Hadoop 
+**Cloud Computing platforms:** Azure 
 
-**Project Management Tools:** Jira 
+**CI & management tools:** Jenkins, Ansible, Terraform
 
 **Others:** Agile, OOP, TDD, Continuous Integration/Continuous Delivery with Jenkins, Apache Spark, Apache Airflow and Docker.
 
