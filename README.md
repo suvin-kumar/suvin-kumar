@@ -39,9 +39,6 @@ https://github.com/suvin-kumar/Design-OLTP-Database.git
 https://github.com/suvin-kumar/Python-Project-for-Data-Engineering.git
 
 
-
-- 🌱 I’m currently deep diving into **Data Structures and Algorithms, JavaScript, ReactJS, Azure Services**
-
 <!---
 suvin-kumar/suvin-kumar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
