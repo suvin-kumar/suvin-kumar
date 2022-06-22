@@ -12,7 +12,7 @@ My name is Suvin Kumar and I am a Data Engineer actively pursuing a career whils
 
 **Version Control Systems:** Git/Github
 
-**Frameworks:** Django and Flask
+**Frameworks:** Django, Node.JS
 
 **Databases:**  MySQL and MongoDB
 
@@ -20,7 +20,7 @@ My name is Suvin Kumar and I am a Data Engineer actively pursuing a career whils
 
 **CI & management tools:** Jenkins, Ansible, Terraform
 
-**Others:** Agile, OOP, TDD, Continuous Integration/Continuous Delivery with Jenkins, Apache Spark, Apache Airflow and Docker.
+**Others:** Hadoop, Spark 
 
 
 
