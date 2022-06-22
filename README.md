@@ -1,8 +1,5 @@
 ## Hello world 👋
 
-![68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966](https://user-images.githubusercontent.com/96186386/158050117-a4b0854f-b94f-43b4-b00a-43a2bd0cd53f.gif)
-
-My name is Suvin Kumar and I am a Data Engineer actively pursuing a career whilst constantly learning and improving my craft as a developer and engineer.
 
 
 
