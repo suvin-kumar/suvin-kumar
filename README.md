@@ -1,23 +1,17 @@
-## Hello world 👋
-
-
-
 
 ## I'm proficient in the following Languages/Frameworks/Technologies:
 
-**Programming Languages:** Python
+**Programming Languages:** Python/Java
 
 **Version Control Systems:** Git/Github
 
-**Frameworks:** Django, Node.JS
-
-**Databases:**  MySQL and MongoDB
+**Databases:**  MySQL/PostgresSQL
 
 **Cloud Computing platforms:** Azure 
 
-**CI & management tools:** Jenkins, Ansible, Terraform
+**CI & management tools:** Jenkins/Ansible/Terraform
 
-**Others:** Hadoop, Spark 
+**Others:** Hadoop/Spark 
 
 
 
